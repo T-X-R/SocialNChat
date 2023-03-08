@@ -5,4 +5,4 @@ Plan to create a dating project.
 ASP.NET(v7), Entity Framework Core and Angular(v15)
 
 ## APIs
-- Login
+- Login: includes validation, JWTs(JSON Web Tokens) and Authentication Middleware.
