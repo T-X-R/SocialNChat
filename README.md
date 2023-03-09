@@ -7,3 +7,5 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 ## Backend
 - Login: includes validation, JWTs(JSON Web Tokens) and Authentication Middleware.
 - Middleware: includes exceptions middleware
+- Repository Pattern: UserRepository
+- AutoMapper: AutoMapperProfiles
