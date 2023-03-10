@@ -1,4 +1,3 @@
-using API.Extensions;
 
 namespace API.Entities
 {
@@ -32,9 +31,7 @@ namespace API.Entities
 
         public List<Photo> Photos { get; set; } = new();
 
-        // public int GetAge()
-        // {
-        //     return DateOfBirth.CaluateAge();
-        // }
+        public List<UserLike> LikedByUsers { get; set; } = new();
+        public List<UserLike> LikedUsers { get; set; } = new();
     }
 }
