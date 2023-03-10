@@ -15,6 +15,7 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - Pagination
 - Search Filters
 - Like Entity
+- Message Entity
 
 ## Frontend
 - Login/Registration: login/register check, authentication
@@ -28,3 +29,4 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - Search Filters: age, gender, latest/recent members
 - cache
 - Like Users
+- Message
