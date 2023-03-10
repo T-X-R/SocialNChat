@@ -12,7 +12,8 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - AutoMapper: AutoMapperProfiles
 - User update
 - Connect to Cloudinary: photo upload, delete
-
+- Pagination
+- Search Filters
 
 ## Frontend
 - Login/Registration: login/register check, authentication
@@ -22,3 +23,6 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - Edit Profile
 - Photo Storage: Cloudinary
 - File upload: ng2-file-upload
+- Pagination
+- Search Filters: age, gender, latest/recent members
+- cache
