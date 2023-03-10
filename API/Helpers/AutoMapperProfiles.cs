@@ -13,6 +13,7 @@ namespace API.Helpers
                 .ForMember(d => d.PhotoUrl, opt => opt.MapFrom(src => src.Photos.FirstOrDefault(x => x.IsMain).Url))
                 .ForMember(d => d.Age, opt => opt.MapFrom(src => src.DateOfBirth.CaluateAge()));
             CreateMap<Photo, PhotoDto>();
+            CreateMap<MemberUpdateDto, AppUser>();
         }
     }
 }
