@@ -19,4 +19,5 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - Bootstrap
 - Photo Gallery: [NgxGallery](https://github.com/kolkov/ngx-gallery)
 - Edit Profile
--
+- Photo Storage: Cloudinary
+- File upload: ng2-file-upload
