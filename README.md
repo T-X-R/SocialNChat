@@ -10,3 +10,9 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - Seeding: seeding data into database
 - Repository Pattern: UserRepository
 - AutoMapper: AutoMapperProfiles
+
+## Frontend
+- Login/Registration: login check, authentication
+- Error Handling: toastr, error pages
+- Bootstrap
+- Photo Gallery: [NgxGallery](https://github.com/kolkov/ngx-gallery)
