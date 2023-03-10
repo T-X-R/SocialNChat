@@ -11,6 +11,7 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - Repository Pattern: UserRepository
 - AutoMapper: AutoMapperProfiles
 - User update
+- Connect to Cloudinary: photo upload, delete
 
 
 ## Frontend
