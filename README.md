@@ -13,6 +13,6 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 
 ## Frontend
 - Login/Registration: login check, authentication
-- Error Handling: toastr, error pages
+- Interceptor: error handler, JWT token handler
 - Bootstrap
 - Photo Gallery: [NgxGallery](https://github.com/kolkov/ngx-gallery)
