@@ -1,6 +1,6 @@
-# fly.toml file generated for my-first-project on 2023-03-11T14:16:28-05:00
+# fly.toml file generated for xr-project on 2023-03-11T15:07:45-05:00
 
-app = "my-first-project"
+app = "xr-project"
 kill_signal = "SIGINT"
 kill_timeout = 5
 primary_region = "dfw"
