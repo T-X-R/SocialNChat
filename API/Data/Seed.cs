@@ -1,5 +1,3 @@
-using System.Security.Cryptography;
-using System.Text;
 using System.Text.Json;
 using API.Entities;
 using Microsoft.AspNetCore.Identity;
@@ -15,9 +13,10 @@ namespace API.Data
             await context.SaveChangesAsync();
         }
 
-        public static async Task SeedUsers(UserManager<AppUser> userManager, RoleManager<AppRole> roleManager)
+        public static async Task SeedUsers(UserManager<AppUser> userManager, 
+            RoleManager<AppRole> roleManager)
         {
-            if(await userManager.Users.AnyAsync()) return;
+            if (await userManager.Users.AnyAsync()) return;
 
             var userData = await File.ReadAllTextAsync("Data/UserSeedData.json");
 
@@ -25,10 +24,11 @@ namespace API.Data
 
             var users = JsonSerializer.Deserialize<List<AppUser>>(userData);
 
-            var roles = new List<AppRole>{
+            var roles = new List<AppRole>
+            {
                 new AppRole{Name = "Member"},
                 new AppRole{Name = "Admin"},
-                new AppRole{Name = "Moderator"}
+                new AppRole{Name = "Moderator"},
             };
 
             foreach (var role in roles)
@@ -49,6 +49,7 @@ namespace API.Data
             {
                 UserName = "admin"
             };
+
             await userManager.CreateAsync(admin, "Pa$$w0rd");
             await userManager.AddToRolesAsync(admin, new[] {"Admin", "Moderator"});
         }
