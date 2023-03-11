@@ -35,3 +35,5 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - User Roles
 - Real-time access
 
+## Deployment
+- Github Action: auto build & deployment
