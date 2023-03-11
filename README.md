@@ -17,6 +17,7 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - Like Entity
 - Message Entity
 - User Roles Control
+- SignalR
 
 ## Frontend
 - Login/Registration: login/register check, authentication
@@ -32,3 +33,4 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - Like Users
 - Message: send, delete
 - User Roles
+- real-time access
