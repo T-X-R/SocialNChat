@@ -1,5 +1,5 @@
-# MyProject (In Progress)
-Plan to create a dating project.
+# Social&Chat
+An appication allow people to like/follow each other and begin a real-time chat.
 
 ## Technologies
 ASP.NET(v7), Entity Framework Core and Angular(v15)
