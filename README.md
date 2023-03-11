@@ -16,6 +16,7 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - Search Filters
 - Like Entity
 - Message Entity
+- User Roles Control
 
 ## Frontend
 - Login/Registration: login/register check, authentication
@@ -29,4 +30,5 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - Search Filters: age, gender, latest/recent members
 - cache
 - Like Users
-- Message
+- Message: send, delete
+- User Roles
