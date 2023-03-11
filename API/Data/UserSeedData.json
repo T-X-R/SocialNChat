@@ -13,7 +13,7 @@
     "Country": "Laos",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/87.jpg",
+        "Url": "https://res.cloudinary.com/dosuotitt/image/upload/v1678514583/data-net7/swplnzhvimfzrcidcyug.jpg",
         "IsMain": true
       }
     ]
@@ -32,7 +32,7 @@
     "Country": "Gambia",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/97.jpg",
+        "Url": "https://res.cloudinary.com/dosuotitt/image/upload/v1678514649/data-net7/ou4fwifdojynq5ebhmay.jpg",
         "IsMain": true
       }
     ]
@@ -51,7 +51,7 @@
     "Country": "Finland",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/36.jpg",
+        "Url": "https://res.cloudinary.com/dosuotitt/image/upload/v1678514733/data-net7/hltm5gqxgj1ntsxn5h9f.png",
         "IsMain": true
       }
     ]
@@ -70,7 +70,7 @@
     "Country": "Canada",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/14.jpg",
+        "Url": "https://res.cloudinary.com/dosuotitt/image/upload/v1678514549/data-net7/xmzhbowuk9e4fyxahdcf.jpg",
         "IsMain": true
       }
     ]
@@ -89,7 +89,7 @@
     "Country": "Denmark",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/14.jpg",
+        "Url": "https://res.cloudinary.com/dosuotitt/image/upload/v1678514817/data-net7/e7qwu4mx4foohvgpvrfo.jpg",
         "IsMain": true
       }
     ]
@@ -109,7 +109,7 @@
     "Country": "Tonga",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/men/23.jpg",
+        "Url": "https://res.cloudinary.com/dosuotitt/image/upload/v1678514212/data-net7/fwxxza02zbamihi8glce.jpg",
         "IsMain": true
       }
     ]
@@ -128,7 +128,7 @@
     "Country": "Faroe Islands",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/men/53.jpg",
+        "Url": "https://res.cloudinary.com/dosuotitt/image/upload/v1678514408/data-net7/gbgkfonbsg12tkemk7sn.jpg",
         "IsMain": true
       }
     ]
@@ -147,7 +147,7 @@
     "Country": "Egypt",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/men/91.jpg",
+        "Url": "https://res.cloudinary.com/dosuotitt/image/upload/v1678514438/data-net7/hyasmpsjtp5uhxaoswbg.jpg",
         "IsMain": true
       }
     ]
@@ -166,7 +166,7 @@
     "Country": "Djibouti",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/men/97.jpg",
+        "Url": "https://res.cloudinary.com/dosuotitt/image/upload/v1678514376/data-net7/rsoxnbmfgpv0bpolf8z4.jpg",
         "IsMain": true
       }
     ]
@@ -185,7 +185,7 @@
     "Country": "Lesotho",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/men/66.jpg",
+        "Url": "https://res.cloudinary.com/dosuotitt/image/upload/v1678514329/data-net7/tpelv5dazqxwsjs31rsm.jpg",
         "IsMain": true
       }
     ]

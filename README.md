@@ -29,8 +29,9 @@ ASP.NET(v7), Entity Framework Core and Angular(v15)
 - File upload: ng2-file-upload
 - Pagination
 - Search Filters: age, gender, latest/recent members
-- cache
+- Cache
 - Like Users
 - Message: send, delete
 - User Roles
-- real-time access
+- Real-time access
+
