@@ -2,7 +2,7 @@
 An appication allow people to like/follow each other and begin a real-time chat.
 
 ## Technologies
-ASP.NET(v7), Entity Framework Core and Angular(v15)
+ASP.NET(v7), Entity Framework Core, Postgres and Angular(v15)
 
 ## Backend
 - Login: includes validation, JWTs(JSON Web Tokens) and Authentication Middleware.
